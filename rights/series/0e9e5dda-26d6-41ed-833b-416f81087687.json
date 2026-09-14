@@ -10,9 +10,6 @@
     "originalClaimant": "Mark VII Ltd.",
     "scriptAuthor": "Jack Webb",
     "corporateSuccessor": "Universal Television",
-    "bulkAcquirer": "Carl Amari",
-    "bulkAcquirerEntity": "Radio Spirits, LLC",
-    "commercialLicensee": "Radio Spirits, LLC",
     "renewalStatus": "Unrenewed",
     "renewalRegistration": "None",
     "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, pp. 207–211",
@@ -28,9 +25,7 @@
         "workForm": "Police Procedural Radio Script",
         "status": "Public Domain",
         "originalClaimant": "Mark VII Ltd. / Jack Webb",
-        "corporateSuccessor": "Universal Television",
-        "bulkAcquirer": "Carl Amari",
-        "commercialLicensee": "Radio Spirits, LLC"
+        "corporateSuccessor": "Universal Television"
       }
     }
   }

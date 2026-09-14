@@ -13,10 +13,7 @@
     "registrationState": "Unregistered",
     "originalClaimant": "Columbia Broadcasting System, Inc.",
     "corporateSuccessor": "CBS Broadcasting Inc. / Paramount Global",
-    "bulkAcquirer": "Carl Amari",
-    "bulkAcquirerEntity": "Radio Spirits, LLC",
     "commercialLicensor": "CBS Broadcasting Inc.",
-    "commercialLicensee": "Radio Spirits, LLC",
     "renewalStatus": "Unrenewed",
     "renewalRegistration": "None",
     "cceVolume": "Zero Class D Radio Script Renewals",
@@ -33,9 +30,7 @@
       "rights": {
         "scriptAuthor": "John Meston",
         "originalClaimant": "Columbia Broadcasting System, Inc.",
-        "corporateSuccessor": "CBS Broadcasting Inc. / Paramount Global",
-        "bulkAcquirer": "Carl Amari",
-        "commercialLicensee": "Radio Spirits, LLC"
+        "corporateSuccessor": "CBS Broadcasting Inc. / Paramount Global"
       }
     },
     "ebb24654-e783-4461-819a-0a9415817312": {
@@ -44,9 +39,7 @@
       "rights": {
         "scriptAuthor": "Les Crutchfield",
         "originalClaimant": "Columbia Broadcasting System, Inc.",
-        "corporateSuccessor": "CBS Broadcasting Inc. / Paramount Global",
-        "bulkAcquirer": "Carl Amari",
-        "commercialLicensee": "Radio Spirits, LLC"
+        "corporateSuccessor": "CBS Broadcasting Inc. / Paramount Global"
       }
     }
   }

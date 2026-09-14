@@ -13,10 +13,7 @@
     "registrationState": "Registered",
     "originalClaimant": "Fox Feature Syndicate, Inc.",
     "corporateSuccessor": "Larry Harmon Pictures Corp.",
-    "bulkAcquirer": "Carl Amari",
-    "bulkAcquirerEntity": "Radio Spirits, LLC",
     "commercialLicensor": "Larry Harmon Pictures Corp.",
-    "commercialLicensee": "Radio Spirits, LLC",
     "renewalStatus": "Unrenewed",
     "renewalRegistration": "None",
     "cceVolume": "CCE Part 1, Group 3, Vol. 13, No. 1-12, p. 140",
@@ -33,9 +30,7 @@
       "released": "1940-09-13",
       "rights": {
         "originalClaimant": "Fox Feature Syndicate, Inc.",
-        "corporateSuccessor": "Larry Harmon Pictures Corp.",
-        "bulkAcquirer": "Carl Amari",
-        "commercialLicensee": "Radio Spirits, LLC"
+        "corporateSuccessor": "Larry Harmon Pictures Corp."
       }
     }
   }

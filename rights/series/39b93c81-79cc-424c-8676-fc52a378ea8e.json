@@ -12,10 +12,7 @@
     "registrationState": "Registered",
     "originalClaimant": "Street & Smith Publications, Inc.",
     "corporateSuccessor": "The Condé Nast Publications, Inc.",
-    "bulkAcquirer": "Carl Amari",
-    "bulkAcquirerEntity": "Radio Spirits, LLC",
     "commercialLicensor": "Advance Magazine Publishers Inc.",
-    "commercialLicensee": "Radio Spirits, LLC",
     "renewalStatus": "Renewed",
     "renewalRegistration": "R 536056",
     "renewalDate": "1972-09-21",
@@ -33,9 +30,7 @@
       "released": "1953-09-13",
       "rights": {
         "originalClaimant": "Street & Smith Publications, Inc.",
-        "corporateSuccessor": "The Condé Nast Publications, Inc.",
-        "bulkAcquirer": "Carl Amari",
-        "commercialLicensee": "Radio Spirits, LLC"
+        "corporateSuccessor": "The Condé Nast Publications, Inc."
       }
     }
   }

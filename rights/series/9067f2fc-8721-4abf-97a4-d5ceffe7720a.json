@@ -13,10 +13,7 @@
     "registrationState": "Registered",
     "originalClaimant": "Lever Brothers Company / J. Walter Thompson",
     "corporateSuccessor": "Unilever United States, Inc.",
-    "bulkAcquirer": "Carl Amari",
-    "bulkAcquirerEntity": "Radio Spirits, LLC",
     "commercialLicensor": "CBS / NBC Commercial",
-    "commercialLicensee": "Radio Spirits, LLC",
     "renewalStatus": "Unrenewed",
     "renewalRegistration": "None",
     "renewalCutoffYear": 1973,
@@ -33,9 +30,7 @@
       "released": "1937-09-13",
       "rights": {
         "originalClaimant": "Lever Brothers Company / J. Walter Thompson",
-        "corporateSuccessor": "Unilever United States, Inc.",
-        "bulkAcquirer": "Carl Amari",
-        "commercialLicensee": "Radio Spirits, LLC"
+        "corporateSuccessor": "Unilever United States, Inc."
       }
     },
     "29eb59ae-86c6-4bbf-8343-244f4f82b251": {
@@ -43,9 +38,7 @@
       "released": "1943-09-13",
       "rights": {
         "originalClaimant": "Lever Brothers Company / J. Walter Thompson",
-        "corporateSuccessor": "Unilever United States, Inc.",
-        "bulkAcquirer": "Carl Amari",
-        "commercialLicensee": "Radio Spirits, LLC"
+        "corporateSuccessor": "Unilever United States, Inc."
       }
     },
     "58b1df24-b418-4019-bba7-01f3e0e820d0": {
@@ -70,10 +63,7 @@
         "director": "Fred MacKaye",
         "host": "Preston Sturges",
         "stars": "Alan Ladd and Loretta Young",
-        "bulkAcquirer": "Carl Amari",
-        "bulkAcquirerEntity": "Radio Spirits, LLC",
         "commercialLicensor": "CBS / Lever Brothers",
-        "commercialLicensee": "Radio Spirits, LLC",
         "renewalStatus": "Unrenewed",
         "renewalRegistration": "None",
         "renewalCutoffYear": 1973,

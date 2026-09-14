@@ -13,10 +13,7 @@
     "registrationState": "Registered",
     "originalClaimant": "Jewish Theological Seminary of America",
     "corporateSuccessor": "Jewish Theological Seminary of America",
-    "bulkAcquirer": "Carl Amari",
-    "bulkAcquirerEntity": "Radio Spirits, LLC",
     "commercialLicensor": "NBC Sustaining",
-    "commercialLicensee": "Public Archive Holdings",
     "renewalStatus": "Unrenewed",
     "renewalRegistration": "None",
     "cceVolume": "CCE Third Series, Vol. 1, Parts 3-4, No. 2, p. 125",
@@ -34,9 +31,7 @@
       "rights": {
         "scriptAuthor": "Joseph Mindel",
         "originalClaimant": "Jewish Theological Seminary of America",
-        "corporateSuccessor": "Jewish Theological Seminary of America",
-        "bulkAcquirer": "Carl Amari",
-        "commercialLicensee": "Radio Spirits, LLC"
+        "corporateSuccessor": "Jewish Theological Seminary of America"
       }
     }
   }
