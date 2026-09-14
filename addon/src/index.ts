@@ -67,6 +67,11 @@ export default {
 			return json({ error: "method_not_allowed" }, 405);
 		}
 
+		const auth = request.headers.get("x-radioindex-internal") || request.headers.get("authorization");
+		if (!auth) {
+			return json({ error: "forbidden", message: "Private slice: strictly limited to internal access only." }, 403);
+		}
+
 		const path = new URL(request.url).pathname.replace(/^\/+/, "").replace(/\/+$/, "");
 		if (path === "manifest.json") return maybeHead(request, await bundled(request, env, "manifest.json"));
 		if (path === "health") return maybeHead(request, json({ ok: true, slice: SLICE }, 200));
