@@ -1,0 +1,13 @@
+name = "rights-addon"
+main = "src/index.ts"
+compatibility_date = "2025-05-05"
+workers_dev = true
+
+routes = [
+  { pattern = "rights.radioindex.org", custom_domain = true }
+]
+
+[assets]
+directory = ".assets"
+binding = "ASSETS"
+run_worker_first = true

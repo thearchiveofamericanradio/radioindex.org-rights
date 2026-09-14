@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "id": "org.radioindex.rights",
+  "version": "1.0.0",
+  "name": "Radio Index Rights",
+  "description": "Historical copyright, renewal, and rights provenance metadata for old-time radio.",
+  "resources": [
+    "rights"
+  ],
+  "types": [
+    "series",
+    "broadcast"
+  ],
+  "idPrefixes": []
+}

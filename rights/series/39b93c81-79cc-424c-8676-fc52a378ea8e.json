@@ -1,0 +1,42 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "seriesId": "39b93c81-79cc-424c-8676-fc52a378ea8e",
+  "seriesTitle": "The Shadow",
+  "rights": {
+    "status": "Protected by Copyright",
+    "copyrightStatus": "Active Federal Copyright",
+    "statutoryTerm": "1909 Act 28-Year Initial + 67-Year Extended Term",
+    "statutoryAuthority": "17 U.S.C. § 24 & § 304",
+    "registrationClass": "Class D",
+    "classDescription": "Dramatic Composition",
+    "registrationState": "Registered",
+    "originalClaimant": "Street & Smith Publications, Inc.",
+    "corporateSuccessor": "The Condé Nast Publications, Inc.",
+    "bulkAcquirer": "Carl Amari",
+    "bulkAcquirerEntity": "Radio Spirits, LLC",
+    "commercialLicensor": "Advance Magazine Publishers Inc.",
+    "commercialLicensee": "Radio Spirits, LLC",
+    "renewalStatus": "Renewed",
+    "renewalRegistration": "R 536056",
+    "renewalDate": "1972-09-21",
+    "renewalClaimant": "The Condé Nast Publications, Inc.",
+    "expirationYear": 2040,
+    "registrationNumber": "D 95015",
+    "registrationSourceUrl": "https://archive.org/details/catalogofcopyrig181libr/mode/2up?q=95015",
+    "renewalSourceUrl": "https://archive.org/details/catalogofcop197232634libr/mode/2up?q=536056",
+    "cceVolume": "CCE Third Series, Vol. 26, Parts 3-4, No. 2, p. 125",
+    "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, pp. 606–610"
+  },
+  "episodes": {
+    "c9baf414-0514-46d4-9622-3753ca109a97": {
+      "title": "Stand-in for Murder",
+      "released": "1953-09-13",
+      "rights": {
+        "originalClaimant": "Street & Smith Publications, Inc.",
+        "corporateSuccessor": "The Condé Nast Publications, Inc.",
+        "bulkAcquirer": "Carl Amari",
+        "commercialLicensee": "Radio Spirits, LLC"
+      }
+    }
+  }
+}

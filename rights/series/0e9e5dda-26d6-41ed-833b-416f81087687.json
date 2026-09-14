@@ -1,0 +1,37 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "seriesId": "0e9e5dda-26d6-41ed-833b-416f81087687",
+  "seriesTitle": "Dragnet",
+  "rights": {
+    "status": "Public Domain",
+    "copyrightStatus": "Unregistered Radio Scripts / Pre-1972 Sound Recordings",
+    "statutoryTerm": "1909 Act Pre-1972 Sound Recording",
+    "statutoryAuthority": "17 U.S.C. § 301",
+    "originalClaimant": "Mark VII Ltd.",
+    "scriptAuthor": "Jack Webb",
+    "corporateSuccessor": "Universal Television",
+    "bulkAcquirer": "Carl Amari",
+    "bulkAcquirerEntity": "Radio Spirits, LLC",
+    "commercialLicensee": "Radio Spirits, LLC",
+    "renewalStatus": "Unrenewed",
+    "renewalRegistration": "None",
+    "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, pp. 207–211",
+    "cprsSearchUrl": "https://publicrecords.copyright.gov/search?page_number=1&query=%22Dragnet%22&field_type=%22keyword%22",
+    "stanfordRenewalUrl": "https://exhibits.stanford.edu/copyrightrenewals?q=Dragnet"
+  },
+  "episodes": {
+    "46b58037-c52c-46b5-adcb-302181ffeeee": {
+      "title": "The Big Waiter",
+      "released": "1951-09-13",
+      "rights": {
+        "scriptAuthor": "James E. Moser",
+        "workForm": "Police Procedural Radio Script",
+        "status": "Public Domain",
+        "originalClaimant": "Mark VII Ltd. / Jack Webb",
+        "corporateSuccessor": "Universal Television",
+        "bulkAcquirer": "Carl Amari",
+        "commercialLicensee": "Radio Spirits, LLC"
+      }
+    }
+  }
+}

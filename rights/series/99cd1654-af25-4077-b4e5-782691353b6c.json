@@ -1,0 +1,45 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "seriesId": "99cd1654-af25-4077-b4e5-782691353b6c",
+  "seriesTitle": "Suspense",
+  "rights": {
+    "status": "Public Domain",
+    "copyrightStatus": "Unregistered Broadcast Scripts / Pre-1972 Sound Recordings",
+    "statutoryTerm": "1909 Act Pre-1972 Sound Recording",
+    "statutoryAuthority": "17 U.S.C. § 301",
+    "originalClaimant": "Columbia Broadcasting System, Inc.",
+    "corporateSuccessor": "CBS Broadcasting Inc.",
+    "bulkAcquirer": "Carl Amari",
+    "bulkAcquirerEntity": "Radio Spirits, LLC",
+    "commercialLicensee": "Radio Spirits, LLC",
+    "renewalStatus": "Unrenewed",
+    "renewalRegistration": "None",
+    "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, pp. 647–651",
+    "cprsSearchUrl": "https://publicrecords.copyright.gov/search?page_number=1&query=%22Suspense%22&field_type=%22keyword%22",
+    "stanfordRenewalUrl": "https://exhibits.stanford.edu/copyrightrenewals?q=Suspense"
+  },
+  "episodes": {
+    "60d67b1c-bc65-4066-bb77-2380593084c3": {
+      "title": "Suspense: The Furnished Floor",
+      "released": "1945-09-13",
+      "rights": {
+        "scriptAuthor": "Lucille Fletcher",
+        "workForm": "Radio Drama Script",
+        "status": "Public Domain",
+        "originalClaimant": "Columbia Broadcasting System, Inc.",
+        "corporateSuccessor": "CBS Broadcasting Inc. / Paramount Global",
+        "bulkAcquirer": "Carl Amari",
+        "commercialLicensee": "Radio Spirits, LLC"
+      }
+    },
+    "9a193492-ccc6-4f47-9caf-e777ea551bc1": {
+      "title": "A Story of Poison",
+      "released": "1955-09-13",
+      "rights": {
+        "scriptAuthor": "Antony Ellis",
+        "workForm": "Radio Drama Script",
+        "status": "Public Domain"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "id": "6c5701eb-3edb-44e1-b45f-63be319b2d84",
+  "seriesId": "9067f2fc-8721-4abf-97a4-d5ceffe7720a",
+  "seriesTitle": "Lux Radio Theatre",
+  "title": "Lux Radio Theatre: A Star Is Born",
+  "released": "1937-09-13",
+  "rights": {
+    "originalClaimant": "Lever Brothers Company / J. Walter Thompson",
+    "corporateSuccessor": "Unilever United States, Inc.",
+    "bulkAcquirer": "Carl Amari",
+    "commercialLicensee": "Radio Spirits, LLC"
+  }
+}

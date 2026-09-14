@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "id": "9a193492-ccc6-4f47-9caf-e777ea551bc1",
+  "seriesId": "99cd1654-af25-4077-b4e5-782691353b6c",
+  "seriesTitle": "Suspense",
+  "title": "A Story of Poison",
+  "released": "1955-09-13",
+  "rights": {
+    "scriptAuthor": "Antony Ellis",
+    "workForm": "Radio Drama Script",
+    "status": "Public Domain"
+  }
+}

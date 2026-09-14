@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "id": "46b58037-c52c-46b5-adcb-302181ffeeee",
+  "seriesId": "0e9e5dda-26d6-41ed-833b-416f81087687",
+  "seriesTitle": "Dragnet",
+  "title": "The Big Waiter",
+  "released": "1951-09-13",
+  "rights": {
+    "scriptAuthor": "James E. Moser",
+    "workForm": "Police Procedural Radio Script",
+    "status": "Public Domain",
+    "originalClaimant": "Mark VII Ltd. / Jack Webb",
+    "corporateSuccessor": "Universal Television",
+    "bulkAcquirer": "Carl Amari",
+    "commercialLicensee": "Radio Spirits, LLC"
+  }
+}

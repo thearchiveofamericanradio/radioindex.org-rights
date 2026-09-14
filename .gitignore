@@ -1,0 +1,5 @@
+node_modules/
+addon/.assets/
+.DS_Store
+*.log
+.wrangler/

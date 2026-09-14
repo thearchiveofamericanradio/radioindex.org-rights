@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "seriesId": "a5661d5e-e788-4529-9526-c7e090dc806d",
+  "seriesTitle": "AFRS Collection",
+  "rights": {
+    "status": "Public Domain",
+    "copyrightStatus": "U.S. Government Work (17 U.S.C. § 105)",
+    "statutoryTerm": "Government Work / No Federal Copyright",
+    "statutoryAuthority": "17 U.S.C. § 105",
+    "originalClaimant": "United States Government",
+    "corporateSuccessor": "National Archives and Records Administration",
+    "governmentRepository": "National Archives and Records Administration",
+    "archivalRecordGroup": "NARA Record Group 330 AFRTS Collection",
+    "archivalRecordGroupUrl": "https://www.archives.gov/research/guide-fed-records/groups/330.html#330.13",
+    "historicalReference": "Frank Buxton & Bill Owen, The Big Broadcast, p. 50"
+  },
+  "episodes": {
+    "56c20e38-d114-4950-b5cd-fe76ade5913a": {
+      "title": "Johnny Mercer's Music Shop: Crazy Rhythm",
+      "released": "1944-09-13",
+      "rights": {
+        "originalClaimant": "United States Government",
+        "corporateSuccessor": "National Archives and Records Administration",
+        "governmentRepository": "National Archives and Records Administration",
+        "archivalRecordGroup": "NARA Record Group 330 AFRTS Collection",
+        "archivalRecordGroupUrl": "https://www.archives.gov/research/guide-fed-records/groups/330.html#330.13",
+        "statutoryAuthority": "17 U.S.C. § 105"
+      }
+    }
+  }
+}

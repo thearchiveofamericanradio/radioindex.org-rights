@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "id": "2340c93f-e2db-4b29-929a-6d3015a1cd2f",
+  "seriesId": "fbc59ec5-2e05-48be-b3db-06298da17920",
+  "seriesTitle": "Fibber McGee And Molly",
+  "title": "Fifteenth Anniversary Show",
+  "released": "1949-09-13",
+  "rights": {
+    "scriptAuthor": "Phil Leslie and Don Quinn",
+    "workForm": "Comedy Variety Radio Script",
+    "status": "Public Domain"
+  }
+}

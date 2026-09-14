@@ -1,0 +1,53 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "seriesId": "84769655-a39e-4113-8476-0776fcedf673",
+  "seriesTitle": "Gunsmoke",
+  "rights": {
+    "status": "Public Domain",
+    "copyrightStatus": "Expired / Unrenewed Initial Term",
+    "statutoryTerm": "1909 Act Pre-1972 Sound Recording",
+    "statutoryAuthority": "17 U.S.C. § 24",
+    "statutoryProvision": "Failure to Renew Initial Term",
+    "registrationClass": "Class D",
+    "classDescription": "Dramatic Composition",
+    "registrationState": "Unregistered",
+    "originalClaimant": "Columbia Broadcasting System, Inc.",
+    "corporateSuccessor": "CBS Broadcasting Inc. / Paramount Global",
+    "bulkAcquirer": "Carl Amari",
+    "bulkAcquirerEntity": "Radio Spirits, LLC",
+    "commercialLicensor": "CBS Broadcasting Inc.",
+    "commercialLicensee": "Radio Spirits, LLC",
+    "renewalStatus": "Unrenewed",
+    "renewalRegistration": "None",
+    "cceVolume": "Zero Class D Radio Script Renewals",
+    "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, pp. 302–306",
+    "renewalCutoffYear": 1980,
+    "publicDomainYear": 1980,
+    "cprsSearchUrl": "https://publicrecords.copyright.gov/search?page_number=1&query=%22Gunsmoke%22&field_type=keyword",
+    "stanfordRenewalUrl": "https://exhibits.stanford.edu/copyrightrenewals?f%5Bformat%5D%5B%5D=Drama&q=Gunsmoke"
+  },
+  "episodes": {
+    "12f1a37a-a08a-4d44-b86d-60fc2336eb23": {
+      "title": "Home Surgery",
+      "released": "1952-09-13",
+      "rights": {
+        "scriptAuthor": "John Meston",
+        "originalClaimant": "Columbia Broadcasting System, Inc.",
+        "corporateSuccessor": "CBS Broadcasting Inc. / Paramount Global",
+        "bulkAcquirer": "Carl Amari",
+        "commercialLicensee": "Radio Spirits, LLC"
+      }
+    },
+    "ebb24654-e783-4461-819a-0a9415817312": {
+      "title": "Johnny Red",
+      "released": "1959-09-13",
+      "rights": {
+        "scriptAuthor": "Les Crutchfield",
+        "originalClaimant": "Columbia Broadcasting System, Inc.",
+        "corporateSuccessor": "CBS Broadcasting Inc. / Paramount Global",
+        "bulkAcquirer": "Carl Amari",
+        "commercialLicensee": "Radio Spirits, LLC"
+      }
+    }
+  }
+}

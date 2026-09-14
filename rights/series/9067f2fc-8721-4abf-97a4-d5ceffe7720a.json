@@ -1,0 +1,92 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "seriesId": "9067f2fc-8721-4abf-97a4-d5ceffe7720a",
+  "seriesTitle": "Lux Radio Theatre",
+  "rights": {
+    "status": "Public Domain",
+    "copyrightStatus": "Expired / Unrenewed Initial Term",
+    "statutoryTerm": "1909 Act 28-Year Initial Term",
+    "statutoryAuthority": "17 U.S.C. § 24",
+    "statutoryProvision": "Failure to Renew Initial Term",
+    "registrationClass": "Class D",
+    "classDescription": "Dramatic Composition",
+    "registrationState": "Registered",
+    "originalClaimant": "Lever Brothers Company / J. Walter Thompson",
+    "corporateSuccessor": "Unilever United States, Inc.",
+    "bulkAcquirer": "Carl Amari",
+    "bulkAcquirerEntity": "Radio Spirits, LLC",
+    "commercialLicensor": "CBS / NBC Commercial",
+    "commercialLicensee": "Radio Spirits, LLC",
+    "renewalStatus": "Unrenewed",
+    "renewalRegistration": "None",
+    "renewalCutoffYear": 1973,
+    "publicDomainYear": 1974,
+    "cceVolume": "CCE Part 1, Group 3, Vol. 18, Entry 3369",
+    "registrationSourceUrl": "https://archive.org/details/catalogofcopyrig181libr/mode/2up?q=94081",
+    "cprsSearchUrl": "https://publicrecords.copyright.gov/search?page_number=1&query=%22Lux+Radio+Theatre%22&field_type=keyword",
+    "stanfordRenewalUrl": "https://exhibits.stanford.edu/copyrightrenewals?f%5Bformat%5D%5B%5D=Drama&q=Lux+Radio+Theatre",
+    "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, Oxford University Press, 1998, pp. 416–420"
+  },
+  "episodes": {
+    "6c5701eb-3edb-44e1-b45f-63be319b2d84": {
+      "title": "Lux Radio Theatre: A Star Is Born",
+      "released": "1937-09-13",
+      "rights": {
+        "originalClaimant": "Lever Brothers Company / J. Walter Thompson",
+        "corporateSuccessor": "Unilever United States, Inc.",
+        "bulkAcquirer": "Carl Amari",
+        "commercialLicensee": "Radio Spirits, LLC"
+      }
+    },
+    "29eb59ae-86c6-4bbf-8343-244f4f82b251": {
+      "title": "Lux Radio Theatre: The Phantom of the Opera",
+      "released": "1943-09-13",
+      "rights": {
+        "originalClaimant": "Lever Brothers Company / J. Walter Thompson",
+        "corporateSuccessor": "Unilever United States, Inc.",
+        "bulkAcquirer": "Carl Amari",
+        "commercialLicensee": "Radio Spirits, LLC"
+      }
+    },
+    "58b1df24-b418-4019-bba7-01f3e0e820d0": {
+      "title": "And Now Tomorrow",
+      "released": "1945-05-21",
+      "rights": {
+        "status": "Public Domain",
+        "copyrightStatus": "Expired / Unrenewed Initial Term",
+        "statutoryTerm": "1909 Act 28-Year Initial Term",
+        "statutoryAuthority": "17 U.S.C. § 24",
+        "statutoryProvision": "Failure to Renew Initial Term",
+        "registrationNumber": "D 94081",
+        "registrationClass": "Class D",
+        "classDescription": "Dramatic Composition",
+        "registrationState": "Registered",
+        "depositDate": "1945-06-25",
+        "originalClaimant": "Lever Brothers Company",
+        "claimantLocation": "Cambridge, Mass.",
+        "corporateSuccessor": "Unilever United States, Inc.",
+        "scriptAuthor": "J. Walter Thompson Company",
+        "radioAdaptor": "Sanford Barnett",
+        "director": "Fred MacKaye",
+        "host": "Preston Sturges",
+        "stars": "Alan Ladd and Loretta Young",
+        "bulkAcquirer": "Carl Amari",
+        "bulkAcquirerEntity": "Radio Spirits, LLC",
+        "commercialLicensor": "CBS / Lever Brothers",
+        "commercialLicensee": "Radio Spirits, LLC",
+        "renewalStatus": "Unrenewed",
+        "renewalRegistration": "None",
+        "renewalCutoffYear": 1973,
+        "publicDomainYear": 1974,
+        "underlyingNovel": "And Now Tomorrow by Rachel Field (1942, Reg. A 163820, Renewed 1969 R 473522)",
+        "underlyingMotionPicture": "And Now Tomorrow by Paramount Pictures (1944, Reg. L 12962, Renewed 1971 R 519284)",
+        "derivativeDoctrine": "Stewart v. Abend, 495 U.S. 207 (1990)",
+        "cceVolume": "Catalog of Copyright Entries, Part 1, Group 3: Dramatic Compositions, Motion Pictures 1945, Vol. 18, Entry 3369",
+        "registrationSourceUrl": "https://archive.org/details/catalogofcopyrig181libr/mode/2up?q=94081",
+        "stanfordRenewalUrl": "https://exhibits.stanford.edu/copyrightrenewals?f%5Bformat%5D%5B%5D=Drama&q=And+Now+Tomorrow",
+        "cprsSearchUrl": "https://publicrecords.copyright.gov/search?page_number=1&query=%22And+Now+Tomorrow%22&field_type=keyword",
+        "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, Oxford University Press, 1998, pp. 416–420"
+      }
+    }
+  }
+}

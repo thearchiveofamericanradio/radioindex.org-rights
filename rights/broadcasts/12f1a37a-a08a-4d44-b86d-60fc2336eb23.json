@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "id": "12f1a37a-a08a-4d44-b86d-60fc2336eb23",
+  "seriesId": "84769655-a39e-4113-8476-0776fcedf673",
+  "seriesTitle": "Gunsmoke",
+  "title": "Home Surgery",
+  "released": "1952-09-13",
+  "rights": {
+    "scriptAuthor": "John Meston",
+    "originalClaimant": "Columbia Broadcasting System, Inc.",
+    "corporateSuccessor": "CBS Broadcasting Inc. / Paramount Global",
+    "bulkAcquirer": "Carl Amari",
+    "commercialLicensee": "Radio Spirits, LLC"
+  }
+}

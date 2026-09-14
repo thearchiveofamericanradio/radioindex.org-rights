@@ -1,0 +1,44 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "seriesId": "fbc59ec5-2e05-48be-b3db-06298da17920",
+  "seriesTitle": "Fibber McGee And Molly",
+  "rights": {
+    "status": "Public Domain",
+    "copyrightStatus": "Expired / Unrenewed Initial Term",
+    "statutoryTerm": "1909 Act 28-Year Initial Term",
+    "statutoryAuthority": "17 U.S.C. § 24",
+    "originalClaimant": "S.C. Johnson & Son, Inc. / National Broadcasting Company",
+    "scriptAuthor": "Don Quinn",
+    "corporateSuccessor": "NBCUniversal Media, LLC",
+    "bulkAcquirer": "Carl Amari",
+    "bulkAcquirerEntity": "Radio Spirits, LLC",
+    "commercialLicensee": "Radio Spirits, LLC",
+    "renewalStatus": "Unrenewed",
+    "renewalRegistration": "None",
+    "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, pp. 246–252",
+    "cprsSearchUrl": "https://publicrecords.copyright.gov/search?page_number=1&query=%22Fibber+McGee%22&field_type=%22keyword%22",
+    "stanfordRenewalUrl": "https://exhibits.stanford.edu/copyrightrenewals?q=Fibber+McGee"
+  },
+  "episodes": {
+    "4f499105-56bd-4fd5-9119-cbe599ec3dc3": {
+      "title": "Fibber McGee and Molly: A Drama in Ancient Rome",
+      "released": "1937-09-13",
+      "rights": {
+        "scriptAuthor": "Don Quinn",
+        "originalClaimant": "S.C. Johnson & Son, Inc.",
+        "corporateSuccessor": "NBCUniversal Media, LLC",
+        "bulkAcquirer": "Carl Amari",
+        "commercialLicensee": "Radio Spirits, LLC"
+      }
+    },
+    "2340c93f-e2db-4b29-929a-6d3015a1cd2f": {
+      "title": "Fifteenth Anniversary Show",
+      "released": "1949-09-13",
+      "rights": {
+        "scriptAuthor": "Phil Leslie and Don Quinn",
+        "workForm": "Comedy Variety Radio Script",
+        "status": "Public Domain"
+      }
+    }
+  }
+}

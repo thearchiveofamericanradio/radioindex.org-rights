@@ -1,0 +1,61 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "seriesId": "4b20a850-3f90-4d51-80ac-958c9e86667b",
+  "seriesTitle": "The Lone Ranger",
+  "rights": {
+    "status": "Public Domain",
+    "copyrightStatus": "Expired / Unrenewed Initial Term",
+    "statutoryTerm": "1909 Act 28-Year Initial Term",
+    "statutoryAuthority": "17 U.S.C. § 24",
+    "statutoryProvision": "Failure to Renew Initial Term",
+    "registrationClass": "Class D",
+    "classDescription": "Dramatic Composition",
+    "registrationState": "Registered",
+    "originalClaimant": "The Lone Ranger, Inc.",
+    "corporateSuccessor": "Classic Media LLC",
+    "bulkAcquirer": "Carl Amari",
+    "bulkAcquirerEntity": "Radio Spirits, LLC",
+    "commercialLicensor": "Classic Media LLC",
+    "commercialLicensee": "Radio Spirits, LLC",
+    "renewalStatus": "Unrenewed",
+    "renewalRegistration": "None",
+    "cceVolume": "CCE Part 1, Group 3, Vol. 17, No. 11, p. 195",
+    "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, pp. 404–409",
+    "renewalCutoffYear": 1972,
+    "registrationSourceUrl": "https://archive.org/details/catalogofcopyrig171libr/mode/2up?q=88536",
+    "publicDomainYear": 1973,
+    "cprsSearchUrl": "https://publicrecords.copyright.gov/search?page_number=1&query=%22The%20Lone%20Ranger%22&field_type=keyword",
+    "stanfordRenewalUrl": "https://exhibits.stanford.edu/copyrightrenewals?f%5Bformat%5D%5B%5D=Drama&q=The%20Lone%20Ranger"
+  },
+  "episodes": {
+    "9572afac-93e9-4aa8-88d0-30bce04d029a": {
+      "title": "The Lone Ranger: Leap From Ambush",
+      "released": "1940-09-13",
+      "rights": {
+        "status": "Public Domain",
+        "copyrightStatus": "Expired / Unrenewed Initial Term",
+        "statutoryTerm": "1909 Act 28-Year Initial Term",
+        "statutoryAuthority": "17 U.S.C. § 24",
+        "statutoryProvision": "Failure to Renew Initial Term",
+        "registrationClass": "Class D",
+        "classDescription": "Dramatic Composition",
+        "registrationState": "Registered",
+        "originalClaimant": "The Lone Ranger, Inc.",
+        "corporateSuccessor": "Classic Media LLC",
+        "bulkAcquirer": "Carl Amari",
+        "bulkAcquirerEntity": "Radio Spirits, LLC",
+        "commercialLicensor": "Classic Media LLC",
+        "commercialLicensee": "Radio Spirits, LLC",
+        "renewalStatus": "Unrenewed",
+        "renewalRegistration": "None",
+        "cceVolume": "CCE Part 1, Group 3, Vol. 17, No. 11, p. 195",
+        "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, pp. 404–409",
+        "renewalCutoffYear": 1972,
+        "registrationSourceUrl": "https://archive.org/details/catalogofcopyrig171libr/mode/2up?q=88536",
+        "publicDomainYear": 1973,
+        "cprsSearchUrl": "https://publicrecords.copyright.gov/search?page_number=1&query=%22The%20Lone%20Ranger%3A%20Leap%20From%20Ambush%22&field_type=keyword",
+        "stanfordRenewalUrl": "https://exhibits.stanford.edu/copyrightrenewals?f%5Bformat%5D%5B%5D=Drama&q=The%20Lone%20Ranger%3A%20Leap%20From%20Ambush"
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "seriesId": "02a006ba-1edb-449d-8a50-2fbc2a848616",
+  "seriesTitle": "This is Your FBI",
+  "rights": {
+    "status": "Public Domain",
+    "copyrightStatus": "Unregistered Radio Broadcast",
+    "statutoryTerm": "1909 Act Pre-1972 Sound Recording",
+    "statutoryAuthority": "17 U.S.C. § 301",
+    "originalClaimant": "Equitable Life Assurance Society / American Broadcasting Company",
+    "scriptAuthor": "Jerry Devine",
+    "bulkAcquirer": "Carl Amari",
+    "bulkAcquirerEntity": "Radio Spirits, LLC",
+    "commercialLicensee": "Radio Spirits, LLC",
+    "renewalStatus": "Unrenewed",
+    "renewalRegistration": "None",
+    "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, pp. 664–666",
+    "cprsSearchUrl": "https://publicrecords.copyright.gov/search?page_number=1&query=%22This+Is+Your+FBI%22&field_type=%22keyword%22",
+    "stanfordRenewalUrl": "https://exhibits.stanford.edu/copyrightrenewals?q=This+Is+Your+FBI"
+  },
+  "episodes": {
+    "2c0e2f0f-1159-4201-86d1-6f9533fdec39": {
+      "title": "Death For A Draft Dodger",
+      "released": "1946-09-13",
+      "rights": {
+        "scriptAuthor": "Jerry Devine",
+        "workForm": "Crime Drama Radio Script",
+        "status": "Public Domain"
+      }
+    }
+  }
+}

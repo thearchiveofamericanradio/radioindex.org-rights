@@ -1,0 +1,14 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "id": "c9baf414-0514-46d4-9622-3753ca109a97",
+  "seriesId": "39b93c81-79cc-424c-8676-fc52a378ea8e",
+  "seriesTitle": "The Shadow",
+  "title": "Stand-in for Murder",
+  "released": "1953-09-13",
+  "rights": {
+    "originalClaimant": "Street & Smith Publications, Inc.",
+    "corporateSuccessor": "The Condé Nast Publications, Inc.",
+    "bulkAcquirer": "Carl Amari",
+    "commercialLicensee": "Radio Spirits, LLC"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "id": "4f499105-56bd-4fd5-9119-cbe599ec3dc3",
+  "seriesId": "fbc59ec5-2e05-48be-b3db-06298da17920",
+  "seriesTitle": "Fibber McGee And Molly",
+  "title": "Fibber McGee and Molly: A Drama in Ancient Rome",
+  "released": "1937-09-13",
+  "rights": {
+    "scriptAuthor": "Don Quinn",
+    "originalClaimant": "S.C. Johnson & Son, Inc.",
+    "corporateSuccessor": "NBCUniversal Media, LLC",
+    "bulkAcquirer": "Carl Amari",
+    "commercialLicensee": "Radio Spirits, LLC"
+  }
+}

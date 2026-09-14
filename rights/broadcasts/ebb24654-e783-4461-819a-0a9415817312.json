@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "id": "ebb24654-e783-4461-819a-0a9415817312",
+  "seriesId": "84769655-a39e-4113-8476-0776fcedf673",
+  "seriesTitle": "Gunsmoke",
+  "title": "Johnny Red",
+  "released": "1959-09-13",
+  "rights": {
+    "scriptAuthor": "Les Crutchfield",
+    "originalClaimant": "Columbia Broadcasting System, Inc.",
+    "corporateSuccessor": "CBS Broadcasting Inc. / Paramount Global",
+    "bulkAcquirer": "Carl Amari",
+    "commercialLicensee": "Radio Spirits, LLC"
+  }
+}

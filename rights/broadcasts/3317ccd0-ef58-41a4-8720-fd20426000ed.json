@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "id": "3317ccd0-ef58-41a4-8720-fd20426000ed",
+  "seriesId": "605e00a0-6a3c-456a-98ea-2300d79eed21",
+  "seriesTitle": "The Eternal Light",
+  "title": "Goldstone's Folly",
+  "released": "1959-09-13",
+  "rights": {
+    "scriptAuthor": "Joseph Mindel",
+    "originalClaimant": "Jewish Theological Seminary of America",
+    "corporateSuccessor": "Jewish Theological Seminary of America",
+    "bulkAcquirer": "Carl Amari",
+    "commercialLicensee": "Radio Spirits, LLC"
+  }
+}

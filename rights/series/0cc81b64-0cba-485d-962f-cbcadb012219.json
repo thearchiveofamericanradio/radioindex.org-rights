@@ -1,0 +1,32 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "seriesId": "0cc81b64-0cba-485d-962f-cbcadb012219",
+  "seriesTitle": "The Falcon",
+  "rights": {
+    "status": "Public Domain",
+    "copyrightStatus": "Expired / Unrenewed Broadcast Scripts",
+    "statutoryTerm": "1909 Act 28-Year Initial Term",
+    "statutoryAuthority": "17 U.S.C. § 24",
+    "originalClaimant": "Bernard L. Schubert / Mutual Broadcasting System",
+    "underlyingWork": "The Falcon detective stories",
+    "underlyingClaimant": "Michael Arlen",
+    "bulkAcquirer": "Carl Amari",
+    "bulkAcquirerEntity": "Radio Spirits, LLC",
+    "commercialLicensee": "Radio Spirits, LLC",
+    "renewalStatus": "Unrenewed",
+    "renewalRegistration": "None",
+    "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, pp. 238–240",
+    "cprsSearchUrl": "https://publicrecords.copyright.gov/search?page_number=1&query=%22The+Falcon%22&field_type=%22keyword%22",
+    "stanfordRenewalUrl": "https://exhibits.stanford.edu/copyrightrenewals?q=The+Falcon"
+  },
+  "episodes": {
+    "9637cca3-62fa-4a06-9a10-97e797969a11": {
+      "title": "Murder Is Yours For The Asking",
+      "released": "1948-09-13",
+      "rights": {
+        "workForm": "Mystery Drama Radio Script",
+        "status": "Public Domain"
+      }
+    }
+  }
+}

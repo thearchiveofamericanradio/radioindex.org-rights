@@ -1,0 +1,42 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "seriesId": "ab576d3a-c18a-4fdd-a0bd-17f8654e5246",
+  "seriesTitle": "The Blue Beetle",
+  "rights": {
+    "status": "Public Domain",
+    "copyrightStatus": "Expired / Unrenewed Initial Term",
+    "statutoryTerm": "1909 Act 28-Year Initial Term",
+    "statutoryAuthority": "17 U.S.C. § 24",
+    "statutoryProvision": "Failure to Renew Initial Term",
+    "registrationClass": "Class D",
+    "classDescription": "Dramatic Composition",
+    "registrationState": "Registered",
+    "originalClaimant": "Fox Feature Syndicate, Inc.",
+    "corporateSuccessor": "Larry Harmon Pictures Corp.",
+    "bulkAcquirer": "Carl Amari",
+    "bulkAcquirerEntity": "Radio Spirits, LLC",
+    "commercialLicensor": "Larry Harmon Pictures Corp.",
+    "commercialLicensee": "Radio Spirits, LLC",
+    "renewalStatus": "Unrenewed",
+    "renewalRegistration": "None",
+    "cceVolume": "CCE Part 1, Group 3, Vol. 13, No. 1-12, p. 140",
+    "historicalReference": "Vincent Terrace, Radio Programs 1924–1984, p. 75",
+    "renewalCutoffYear": 1968,
+    "registrationSourceUrl": "https://archive.org/details/catalogofcopyrig131libr/mode/2up?q=69908",
+    "publicDomainYear": 1969,
+    "cprsSearchUrl": "https://publicrecords.copyright.gov/search?page_number=1&query=%22The%20Blue%20Beetle%22&field_type=keyword",
+    "stanfordRenewalUrl": "https://exhibits.stanford.edu/copyrightrenewals?f%5Bformat%5D%5B%5D=Drama&q=The%20Blue%20Beetle"
+  },
+  "episodes": {
+    "03ccae5f-00cf-4028-9370-72007cc00b23": {
+      "title": "The Blue Beetle: Jewel Mystery of Channel Island: Part 2",
+      "released": "1940-09-13",
+      "rights": {
+        "originalClaimant": "Fox Feature Syndicate, Inc.",
+        "corporateSuccessor": "Larry Harmon Pictures Corp.",
+        "bulkAcquirer": "Carl Amari",
+        "commercialLicensee": "Radio Spirits, LLC"
+      }
+    }
+  }
+}

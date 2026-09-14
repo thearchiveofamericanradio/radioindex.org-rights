@@ -1,0 +1,43 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "seriesId": "605e00a0-6a3c-456a-98ea-2300d79eed21",
+  "seriesTitle": "The Eternal Light",
+  "rights": {
+    "status": "Public Domain",
+    "copyrightStatus": "Expired / Unrenewed Initial Term",
+    "statutoryTerm": "1909 Act 28-Year Initial Term",
+    "statutoryAuthority": "17 U.S.C. § 24",
+    "statutoryProvision": "Failure to Renew Initial Term",
+    "registrationClass": "Class D",
+    "classDescription": "Dramatic Composition",
+    "registrationState": "Registered",
+    "originalClaimant": "Jewish Theological Seminary of America",
+    "corporateSuccessor": "Jewish Theological Seminary of America",
+    "bulkAcquirer": "Carl Amari",
+    "bulkAcquirerEntity": "Radio Spirits, LLC",
+    "commercialLicensor": "NBC Sustaining",
+    "commercialLicensee": "Public Archive Holdings",
+    "renewalStatus": "Unrenewed",
+    "renewalRegistration": "None",
+    "cceVolume": "CCE Third Series, Vol. 1, Parts 3-4, No. 2, p. 125",
+    "historicalReference": "John Dunning, On the Air: The Encyclopedia of Old-Time Radio, pp. 235–236",
+    "renewalCutoffYear": 1975,
+    "registrationSourceUrl": "https://archive.org/details/catalogofcopyrig3134libr/mode/2up?q=10939",
+    "publicDomainYear": 1976,
+    "cprsSearchUrl": "https://publicrecords.copyright.gov/search?page_number=1&query=%22The%20Eternal%20Light%22&field_type=keyword",
+    "stanfordRenewalUrl": "https://exhibits.stanford.edu/copyrightrenewals?f%5Bformat%5D%5B%5D=Drama&q=The%20Eternal%20Light"
+  },
+  "episodes": {
+    "3317ccd0-ef58-41a4-8720-fd20426000ed": {
+      "title": "Goldstone's Folly",
+      "released": "1959-09-13",
+      "rights": {
+        "scriptAuthor": "Joseph Mindel",
+        "originalClaimant": "Jewish Theological Seminary of America",
+        "corporateSuccessor": "Jewish Theological Seminary of America",
+        "bulkAcquirer": "Carl Amari",
+        "commercialLicensee": "Radio Spirits, LLC"
+      }
+    }
+  }
+}
