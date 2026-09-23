@@ -11,6 +11,14 @@ rights/series/{id}.json
 rights/broadcasts/{id}.json
 ```
 
+A document's `rights` object states what is known about the work. One key in it is a
+boundary rather than a fact about the work: `"excluded": true` says the archive is not
+permitted to serve this recording, and every coverage figure the archive publishes
+subtracts it. An excluded document names only the recording, the reason, and
+`blockedDigest` — the sha256 of the audio that was refused. It never names a url, a
+filename, or a host, because this repo is public and a rights exclusion must not double
+as a pointer to the recording it excludes.
+
 ## The sibling repos
 
 The dataset is six repositories — one per slice, each holding its slice at its own repo root, plus the schema they are all written against.
