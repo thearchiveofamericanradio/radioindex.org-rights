@@ -1,0 +1,9 @@
+{
+  "$schema": "https://schema.radioindex.org/v1",
+  "id": "17380776-2180-4318-90cf-99cf29fb2cfa",
+  "rights": {
+    "excluded": true,
+    "reason": "The archive hashed this recording's audio and found the digest on its stream blocklist, so the archive does not serve it.",
+    "blockedDigest": "c184174a9778b7036dd42a32d5a47ff6bc9553ddc5b6c80fb5895241435762a4"
+  }
+}
