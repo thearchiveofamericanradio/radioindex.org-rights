@@ -19,6 +19,10 @@ subtracts it. An excluded document names only the recording, the reason, and
 filename, or a host, because this repo is public and a rights exclusion must not double
 as a pointer to the recording it excludes.
 
+A recording is excluded only when every copy the archive holds is on the blocklist. When
+it holds several such copies, `blockedDigest` names the first one its stream document
+lists. A recording with even one clean copy is not excluded here: it plays from that copy.
+
 ## The sibling repos
 
 The dataset is six repositories — one per slice, each holding its slice at its own repo root, plus the schema they are all written against.
